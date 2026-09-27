@@ -101,7 +101,7 @@ export const Landing: React.FC = () => {
       >
         {/* Full Hero Photo */}
         <img
-          src="/hero-bg.jpg"
+          src={`${import.meta.env.BASE_URL}hero-bg.jpg`}
           alt="Children receiving food"
           className="absolute inset-0 w-full h-full"
           style={{
