@@ -6,12 +6,12 @@ export const IMAGES = {
     credit: 'Unsplash',
   },
   animalRecovery: {
-    url: '/cattle-feed.jpg',
+    url: `${import.meta.env.BASE_URL}cattle-feed.jpg`,
     alt: 'Cow being fed roti — Licensed Animal Feed',
     credit: '',
   },
   composting: {
-    url: '/composting.jpg',
+    url: `${import.meta.env.BASE_URL}composting.jpg`,
     alt: 'Campus aerobic composting — food waste to soil',
     credit: '',
   },
@@ -41,4 +41,4 @@ export const IMAGES = {
     alt: 'Food inspection visual check',
     credit: 'Unsplash',
   },
-};
+}; k

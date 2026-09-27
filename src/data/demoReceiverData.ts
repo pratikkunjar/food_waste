@@ -61,7 +61,7 @@ export const DEMO_RECEIVERS: Receiver[] = [
     type: 'Gaushala (Animal Sanctuary)',
     category: 'ANIMAL_RECOVERY',
     distanceKm: 5.2,
-    capacityMeals: 250, // portions/kg
+    capacityMeals: 250,
     hasPickup: true,
     vehicleType: 'Dedicated Clean Fodder Truck',
     fssaiOrDarpanId: 'AWBI-2022-GAU-109 (Licensed Animal Welfare)',
@@ -79,7 +79,7 @@ export const DEMO_RECEIVERS: Receiver[] = [
     type: 'Campus Composting Unit',
     category: 'COMPOST_RECOVERY',
     distanceKm: 0.8,
-    capacityMeals: 500, // kg
+    capacityMeals: 500,
     hasPickup: true,
     vehicleType: 'On-Campus Electric Utility Cart',
     fssaiOrDarpanId: 'MOEFCC-CAMPUS-GREEN-#441',
