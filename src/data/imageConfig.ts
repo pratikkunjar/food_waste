@@ -41,4 +41,4 @@ export const IMAGES = {
     alt: 'Food inspection visual check',
     credit: 'Unsplash',
   },
-}; k
+};
